@@ -24,7 +24,7 @@ A estrutura do jogo é baseada em um conjunto de objetos e funções JavaScript:
 - **field:** representa o campo de jogo.
 - **line:** representa a linha central do campo de jogo.
 - **leftPaddle:** representa a raquete esquerda controlada pelo jogador.
-- **rightPaddle:** representa a raquete direita controlada pela inteligência artificial do computador.
+- **rightPaddle:** representa a raquete direita controlada pelo computador.
 - **score:** mantém a pontuação do jogo.
 - **ball:** representa a bola no jogo.
 <br>
