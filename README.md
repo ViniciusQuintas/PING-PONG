@@ -53,7 +53,7 @@ Para jogar na sua máquina siga os seguintes passos:
 ```bash
   git clone https://github.com/ViniciusQuintas/PING-PONG.git
 ```
-- Após clonar o repositório, navegue até o diretório da Code Landing Page no terminal:
+- Após clonar o repositório, navegue até o diretório PING-PONG no terminal:
 ```bash
   cd PING-PONG
 ```
