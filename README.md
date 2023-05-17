@@ -81,7 +81,7 @@ Se você deseja contribuir para o desenvolvimento e correção de bugs desse jog
 3️⃣ Faça as alterações que desejar no código. 
 <br>
 <br>
-4️⃣  Certifique-se de que suas alterações não vão quebrar o funcionamento já existente da jogo. 
+4️⃣  Certifique-se de que suas alterações não vão quebrar o funcionamento já existente do jogo. 
 <br>
 <br>
 5️⃣ Faça um pull request com suas alterações. 
